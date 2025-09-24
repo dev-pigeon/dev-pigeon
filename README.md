@@ -1,10 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on building full-stack and backend projects, from real-time streaming analytics in Kafka to personal knowledge bots.<br>🤝 I’m looking for help with scaling projects - especially around deployment, security, and user-experience.<br>🌱 I’m currently learning how to evaluate RAG apps.<br>💬 Ask me about systems design, distributed systems, or applied machine learning.<br>⚡ Fun fact, in undergrad, I spent over a year researching precision irrigation systems with the NSF - I can talk about nozzle flow rates and ETL pipelines in the same sentence.<br> 💡Passionate about building software to solve interesting problems
+🔭 Building full-stack and backend projects, from real-time streaming analytics in Kafka to personal knowledge bots.<br>🤝 Looking for help with scaling projects - especially around deployment, security, and user-experience.<br>🌱 Currently learning how to evaluate RAG apps.<br>💬 Ask me about systems design, distributed systems, or applied machine learning.<br>⚡ Fun fact: In undergrad, I spent over a year researching precision irrigation systems with the NSF - I can talk about nozzle flow rates and ETL pipelines in the same sentence.<br> 💡Passionate about building software to solve interesting problems
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jack-young-jdydev/) &nbsp;&nbsp; [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jack.young.dev@gmail.com) 
 
-<br>
 
 # 💻 Tech Stack:
 #### Frontend:
@@ -15,7 +14,6 @@
 #### DevOps:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
-<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dev-pigeon&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
