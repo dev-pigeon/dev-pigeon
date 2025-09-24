@@ -4,6 +4,10 @@
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jack-young-jdydev/) &nbsp;&nbsp; [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jack.young.dev@gmail.com) 
 
+# 📁 Featured Projects
+- [**VWAP Dashboard**](https://github.com/dev-pigeon/kafka-vwap-dashboard) - Simulated real-time trading analytics dashboard for exploring volume-weighted average prices
+- [**Vectorization Pipeline**](https://github.com/dev-pigeon/gutenberg-vectorization-pipeline) - Vectorizes and stores ~5k [Gutenberg](https://www.gutenberg.org/) books
+- [**Tache Time**](https://github.com/dev-pigeon/tache-time) - Task / homework scheduler built for students
 
 # 💻 Tech Stack:
 #### Frontend:
