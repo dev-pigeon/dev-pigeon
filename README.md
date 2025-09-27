@@ -8,6 +8,7 @@
 - [**Runbot**](https://github.com/dev-pigeon/runbot) - A RAG-powered personal running coach and knowledge bot.
 - [**VWAP Dashboard**](https://github.com/dev-pigeon/kafka-vwap-dashboard) - Simulated real-time trading analytics dashboard for exploring volume-weighted average prices
 - [**Vectorization Pipeline**](https://github.com/dev-pigeon/gutenberg-vectorization-pipeline) - Vectorizes and stores ~5k [Gutenberg](https://www.gutenberg.org/) books
+- [**Perceptron Visualizer**](https://github.com/dev-pigeon/perceptron-visualizer) - Visualizes *Frank Rosenblatt's* perceptron algorithm - because why not?
 
 # 💻 Tech Stack:
 #### Frontend:
