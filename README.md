@@ -2,7 +2,7 @@
 🔭 Building full-stack and backend projects, from real-time streaming analytics in Kafka to personal knowledge bots.<br>🤝 Looking for help with scaling projects - especially around deployment, security, and user-experience.<br>🌱 Currently learning how to evaluate RAG apps.<br>💬 Ask me about systems design, distributed systems, or applied machine learning.<br>⚡ Fun fact: In undergrad, I spent over a year researching precision irrigation systems with the NSF - I can talk about nozzle flow rates and ETL pipelines in the same sentence.<br> 💡Passionate about building software to solve interesting problems.
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jack-young-jdydev/) &nbsp;&nbsp; [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jack.young.dev@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jack-young-jdydev/) &nbsp;&nbsp; [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jack.young.dev@gmail.com) 
 
 # 📁 Featured Projects
 - [**Runbot**](https://github.com/dev-pigeon/runbot) - A RAG-powered personal running coach and knowledge bot.
